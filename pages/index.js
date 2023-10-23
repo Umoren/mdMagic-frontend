@@ -63,7 +63,7 @@ const Home = () => {
             Upload: Drag and drop or click to upload your images and add captions.
           </li>
           <li>
-            Convert: Hit the "Upload" button! Your images are now in markdown syntax.
+            Convert: Hit the Upload button! Your images are now in markdown syntax.
           </li>
           <li>
             Copy: Just copy the markdown and use it wherever you need.
